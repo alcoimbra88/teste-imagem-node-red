@@ -1,0 +1,8 @@
+{
+    "projects": {
+        "teste-imagem-nodered": {
+            "credentialSecret": "0dc296a47099d448ec377b4d247058481b72ab50ff1982f54bb1f7aedd2e0215"
+        }
+    },
+    "activeProject": "teste-imagem-nodered"
+}
